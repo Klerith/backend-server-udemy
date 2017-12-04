@@ -14,6 +14,7 @@
         "body-parser": "^1.18.2",
         "express": "^4.16.2",
         "express-fileupload": "^0.3.0",
+        "google-auth-library": "^0.12.0",
         "jsonwebtoken": "^8.1.0",
         "mongoose": "^4.13.5",
         "mongoose-unique-validator": "^1.0.6",
